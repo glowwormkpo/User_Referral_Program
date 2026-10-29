@@ -1,5 +1,7 @@
 # User Referral Program
 
+> Data Engineer Academy module project: evaluating a user referral program.
+
 This folder contains the cleaned deliverables for the User Referral Program analysis.
 
 ## Files
